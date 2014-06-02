@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{748F82E7-357E-47EB-8278-314BF7A342A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\WebSites\FlappyHouse\images\bg1.png = ..\..\WebSites\FlappyHouse\images\bg1.png
+		..\..\WebSites\FlappyHouse\images\bg2.png = ..\..\WebSites\FlappyHouse\images\bg2.png
+		..\..\WebSites\FlappyHouse\images\img-the-bird.gif = ..\..\WebSites\FlappyHouse\images\img-the-bird.gif
+		..\..\WebSites\FlappyHouse\images\instr.png = ..\..\WebSites\FlappyHouse\images\instr.png
+		..\..\WebSites\FlappyHouse\images\vine.png = ..\..\WebSites\FlappyHouse\images\vine.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{DF9DC113-2116-435C-8173-5848B7ACFCA8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\WebSites\FlappyHouse\css\flappy-style.css = ..\..\WebSites\FlappyHouse\css\flappy-style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34995D84-7702-4B07-B77E-11737BB2712E}"
+	ProjectSection(SolutionItems) = preProject
+		flappybird.html = flappybird.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
